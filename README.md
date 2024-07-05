@@ -1,1 +1,1 @@
-# -Connect-to-PostgreSQL-Using-Python
+# Connect-to-PostgreSQL-Using-Python
